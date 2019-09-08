@@ -1,2 +1,2 @@
-# basic-elk
-For fun :)
+# Docker-elk stack
+Install: https://logz.io/blog/elk-stack-on-docker/
